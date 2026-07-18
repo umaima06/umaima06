@@ -4,7 +4,6 @@ p align="center">
   </a>
 </p>
 
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=655&height=44&lines=Full%20Stack%20Development%20-%20Open%20Source%20-%20AI;Problem%20solving%20%20%7C%20Critical%20Thinking" alt="Typing headlines" />
 </p>
 
@@ -57,7 +56,8 @@ I love picking overlooked problems and building scalable solutions that actually
 
 ### 🔗 Connect With Me
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/vA6BCtFW)
+<p align="left">
+  <a href="https://discord.gg/https://discord.gg/vA6BCtFW" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" /></a>
 <p align="left">
   <a href="https://www.linkedin.com/in/syeda-umaima-721537299" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:syeda.umaima1006@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
