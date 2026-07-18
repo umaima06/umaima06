@@ -1,9 +1,9 @@
-p align="center">
+<p align="center">
   <a href="https://github.com/umaima06">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Umaima" alt="Hello! I&#39;m Umaima" />
   </a>
 </p>
-
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=655&height=44&lines=Full%20Stack%20Development%20-%20Open%20Source%20-%20AI;Problem%20solving%20%20%7C%20Critical%20Thinking" alt="Typing headlines" />
 </p>
 
